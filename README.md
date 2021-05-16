@@ -1,0 +1,2 @@
+# Codes-Hackathon
+My name is Rohan Kothari. I am 10 years old. For Sultan Chand online Hackathon 2021 , I have created a mobile application in MIT App Inventor for JR. Category. My selected topic id Covid-19 Healthcare. I have made a quiz and information app. Through this app the user can test their knowledge about Covid-19 by taking the 15 question quiz and can enhance their knowledge by taking the Information Tour. Thank You
